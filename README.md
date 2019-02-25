@@ -1,2 +1,2 @@
-# Les-petits-l-gumes
+# Les-petits-légumes
 write up centralisation
