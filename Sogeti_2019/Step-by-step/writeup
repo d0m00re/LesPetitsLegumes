@@ -1,1 +1,9 @@
-Stegano challenge.
+In this challenge, we had to find a password hidden in a wav file (Step1.wav).
+The most classic technique used to hide data in a wav file is to hide it in its
+least significant bytes.
+
+By using a stegano tool found on github, we can find an image (Step2.bmp) in
+the wav file.
+
+//TODO find wav and display exact command used
+
