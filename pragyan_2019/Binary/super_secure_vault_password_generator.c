@@ -1096,7 +1096,7 @@ int main(int argc, char *argv[])
 		printf("give me a key and i will generate you the password!\n");
 		return (0);
 	}
-	strcpy(user_input, argv[1]);
+	strcpy(user_input, argv[1]); //Super Danger !??
 	char key[64] = "BLAHBLAHBLAH";
 
 	func2(key, user_input, "27644437104591489104652716127");
